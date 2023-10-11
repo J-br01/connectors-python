@@ -216,3 +216,11 @@
 ##    An example is:
 ##    sources:
 ##      mongodb: connectors.sources.mongo:MongoDataSource
+connectors:
+-
+  connector_id: "qn20HosBZYi3muJIPLbK"
+  service_type: "github"
+  api_key: "clgyNEhvc0JaWWkzbXVKSUhMYjE6MmJ3R09rbjBUQVd4MzIxQzhrT2hLZw=="
+elasticsearch:
+  host: "https://8031831e5d8e498bb84501be157f2658.us-central1.gcp.cloud.es.io:443"
+  api_key: "clgyNEhvc0JaWWkzbXVKSUhMYjE6MmJ3R09rbjBUQVd4MzIxQzhrT2hLZw=="
